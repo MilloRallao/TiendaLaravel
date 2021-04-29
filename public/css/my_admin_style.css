@@ -1,0 +1,29 @@
+.delete_img {
+    margin: 5px;
+    border: 3px dashed lightslategrey;
+    transition: all 0.2s linear 0s;
+}
+
+.delete_img:hover {
+    opacity: 0.8;
+    transition: all 0.2s linear 0s;
+}
+
+.del_img {
+    position: relative;
+    right: 170px;
+    transition: all 0.2s linear 0s;
+}
+
+.del_img:hover {
+    color: darkslategray;
+    transition: all 0.2s linear 0s;
+}
+
+.buttons-select-all{
+    
+}
+
+.buttons-select-none{
+    
+}

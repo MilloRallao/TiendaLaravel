@@ -1,1 +1,1 @@
-TiendaLaravel
+infornet_tienda
